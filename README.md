@@ -1,8 +1,20 @@
 # NYTimesDemo
 
 ### Get API key
-  [Generate the API key](https://developer.nytimes.com/signup)
+  
+  Create a free NYT developer account at http://developer.nytimes.com/ to get a NYT API Key.
 
+### To run the app
+  #### From terminal
+  go to Terminal
+  go to project location 
+  run 
+  xcodebuild \
+  -workspace MyAwesomeApp.xcworkspace \
+  -scheme MyAwesomeApp \
+  -sdk iphonesimulator \
+  -destination 'platform=iOS Simulator,name=iPhone 6,OS=8.1' \
+  test | xcpretty
 ### To run the test
 
 ### Generate code coverage data
@@ -19,7 +31,7 @@ This will dump all the DerivedData inside the Build directory.
 
 This will generate the code coverage data at path Build/Logs/Test
 
-## Using `xccov`
+### Coverage report
 
 We can use `xccov` command line tool with `xcrun` untility if thats not inside the `$PATH` 
 
