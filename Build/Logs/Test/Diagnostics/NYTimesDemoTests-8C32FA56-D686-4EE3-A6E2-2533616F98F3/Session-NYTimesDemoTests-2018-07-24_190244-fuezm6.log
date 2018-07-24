@@ -1,0 +1,24 @@
+19:02:44.745 xcodebuild[61019:1231320] Beginning test session NYTimesDemoTests-4C003B33-D23B-4C6B-9FE7-554F65540368 at 2018-07-24 19:02:44.744 with Xcode 9F2000 on target <DVTiPhoneSimulator: 0x7ffac91a5760> {
+		SimDevice: iPhone 8 Plus (246B857C-CC1B-45A8-AC28-F0E0B7978821, iOS 11.4, Booted)
+} (11.4 (15F79))
+19:02:44.746 xcodebuild[61019:1231320] 	/Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild
+-project
+NYTimesDemo.xcodeproj/
+-scheme
+NYTimesDemo
+-derivedDataPath
+Build/
+-destination
+platform=iOS Simulator,OS=11.4,name=iPhone 8 Plus
+-enableCodeCoverage
+YES
+clean
+build
+test
+CODE_SIGN_IDENTITY=
+CODE_SIGNING_REQUIRED=NO
+19:02:44.746 xcodebuild[61019:1231320] Launching with Xcode.IDEFoundation.Launcher.PosixSpawn
+19:02:44.750 xcodebuild[61019:1231320] Test standard output and standard error is at /var/folders/4y/y0cmvd5n2pq0d71wvnj72vhm0000gn/T/com.apple.dt.XCTest/IDETestRunSession-178D3CFC-618C-4B0C-BC69-C5AA43B12900/NYTimesDemoTests-8C32FA56-D686-4EE3-A6E2-2533616F98F3/StandardOutputAndStandardError.txt
+19:02:44.762 xcodebuild[61019:1231320] Simulator 246B857C-CC1B-45A8-AC28-F0E0B7978821 was claimed by TestSessionClaim_IDETestRunSession-178D3CFC-618C-4B0C-BC69-C5AA43B12900
+19:02:46.244 xcodebuild[61019:1231320] Test operation failure: Test operation was canceled.
+19:02:46.245 xcodebuild[61019:1231320] _finishWithError:Error Domain=IDETestOperationsObserverErrorDomain Code=14 "Test operation was canceled." UserInfo={NSLocalizedDescription=Test operation was canceled.}

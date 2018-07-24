@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "cc97656e8f37be28376df5be75b180ae"
+build_time: [1532439165, 207446000]
+inputs:
+  "/Users/jpc-mac/Documents/NYTimesDemo/NYTimesDemo/Controller/ViewController.swift": !dirty [1532437086, 0]
+  "/Users/jpc-mac/Documents/NYTimesDemo/NYTimesDemo/AppDelegate.swift": !dirty [1532427035, 0]
+  "/Users/jpc-mac/Documents/NYTimesDemo/NYTimesDemo/Model/Article.swift": !dirty [1532433854, 0]
+  "/Users/jpc-mac/Documents/NYTimesDemo/NYTimesDemo/Model/DataStore.swift": !dirty [1532432806, 0]
+  "/Users/jpc-mac/Documents/NYTimesDemo/NYTimesDemo/Controller/ArticleCell.swift": !dirty [1532434714, 0]
+  "/Users/jpc-mac/Documents/NYTimesDemo/NYTimesDemo/APIClientNetworking/APIClient.swift": !dirty [1532438098, 0]
+  "/Users/jpc-mac/Documents/NYTimesDemo/NYTimesDemo/Controller/ArticleDetailsViewController.swift": !dirty [1532434912, 0]
