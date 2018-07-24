@@ -9,9 +9,11 @@
 
 Clone this repository and build an app from command line.
 
-  $ git clone 
-  $ cd XCCov-Demo
-  $ xcodebuild -project NYTimesDemo.xcodeproj/ -scheme NYTimesDemo -derivedDataPath Build/ -destination 'platform=iOS Simulator,OS=11.4,name=iPhone 8 Plus' -enableCodeCoverage YES clean build test CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO
+    git clone 
+    
+    cd XCCov-Demo
+    
+    xcodebuild -project NYTimesDemo.xcodeproj/ -scheme NYTimesDemo -derivedDataPath Build/ -destination 'platform=iOS Simulator,OS=11.4,name=iPhone 8 Plus' -enableCodeCoverage YES clean build test CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO
 
 This will dump all the DerivedData inside the Build directory.
 
