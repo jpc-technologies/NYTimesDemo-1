@@ -5,16 +5,8 @@
   Create a free NYT developer account at http://developer.nytimes.com/ to get a NYT API Key.
 
 ### To run the app
-  #### From terminal
-  go to Terminal
-  go to project location 
-  run 
-  xcodebuild \
-  -workspace MyAwesomeApp.xcworkspace \
-  -scheme MyAwesomeApp \
-  -sdk iphonesimulator \
-  -destination 'platform=iOS Simulator,name=iPhone 6,OS=8.1' \
-  test | xcpretty
+  Open .xcworkspace file with XCode 
+
 ### To run the test
 
 ### Generate code coverage data
