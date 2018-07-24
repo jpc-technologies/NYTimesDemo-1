@@ -33,7 +33,7 @@ This will generate the code coverage data at path Build/Logs/Test
 
 ### Coverage report
 
-We can use `xccov` command line tool with `xcrun` untility if thats not inside the `$PATH` 
+We can use `xccov` command line tool with `xcrun` utility if thats not inside the `$PATH` 
 
 * View Report in the plain format 
 
