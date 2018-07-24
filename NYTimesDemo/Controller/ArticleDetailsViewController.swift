@@ -3,7 +3,6 @@
 //  CollectionViewDataSourceBlog
 //
 //  Created by Jhanvi on 24/07/18.
-//  Copyright © 2018 Erica Millado. All rights reserved.
 //
 
 import UIKit
